@@ -46,4 +46,4 @@ async def recycle(ctx):
         picture2 = discord.File(f)
     await ctx.send(file=picture2)
 
-bot.run("MTIwMjkzMTQzNjI1MjgzMTgyNQ.GxXX_7.scJIvyjWegp0wA6PaZ6ZX3ts2VB0TBJ_1oCVP0")
+bot.run("TOKEN")
