@@ -22,7 +22,7 @@ async def bye(ctx):
     
 @bot.command()
 async def info(ctx):
-    await ctx.send(f'Hi! Im Climate Savior, your friendly climate bot :)\n \n Im here to teach you all about climate change and how dangerous it is.\n I can also give you ways to help save the Earth!\n \n Curious what climate change looks like? Type $earth for a start!')
+    await ctx.send(f'Hi! Im Climate Savior, your friendly climate bot :)\n \n Im here to teach you all about climate change and how dangerous it is.\n I can also give a few ways YOU can help save the Earth!\n \n Do you know what climate change looks like? Type %earth for a start!')
     
 @bot.command()
 async def earth(ctx):
@@ -33,7 +33,7 @@ async def earth(ctx):
 
 @bot.command()
 async def causes(ctx):
-    await ctx.send(f'Here are the main causes of climate change:\n 1. Excessive use of fossil fuel for electricity\n 2. Deforestation -> no trees\n 3. Industrial wastes (harmful gases and substances)\n 4. Vehicle emmision\n 5. Refridgerators, air conditioners, aerosol sprays! They all emmit CFC gases.\n \n \u2639\uFE0F \u2639\uFE0F \n \n Now are you wonedering how you can contribute in preventing all this from getting worse? Type %prevent!')
+    await ctx.send(f'Curious about what causes those things? Here are the main causes of climate change:\n 1. Excessive use of fossil fuel for electricity\n 2. Deforestation -> no trees\n 3. Industrial wastes (harmful gases and substances)\n 4. Vehicle emmision\n 5. Refridgerators, air conditioners, aerosol sprays! They all emmit CFC gases.\n \n \u2639\uFE0F \u2639\uFE0F \n \n Now are you wondering how you can contribute in preventing all this from getting worse? Type %prevent!')
 
 @bot.command()
 async def prevent(ctx):
