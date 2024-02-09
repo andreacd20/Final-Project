@@ -8,7 +8,7 @@ This bot was created in hopes that it can help **educate the younger generation*
 
 Interact with it and find out how it can help you!
 
-.............................................................................
+---------------------------------------------------------
 
 **Commands:**
 
@@ -26,7 +26,7 @@ Interact with it and find out how it can help you!
 
 %bye        : Bot will bid you goodbye
 
-.............................................................................
+---------------------------------------------------------
 
 main code = main.py
 
