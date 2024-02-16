@@ -28,6 +28,8 @@ Interact with it and find out how it can help you!
 
 ---------------------------------------------------------
 
+**Resources:**
+
 main code = main.py
 
-picture sources are also attached :)
+all pictures used in the code can be found in the folders "earthpics" and "recyclingideas" respectively :)
